@@ -1,4 +1,4 @@
-This repository includes basic tutorials/projects that I have completed in past. I tried to put a lot of comments to explain what is what. Hope somebody can use them. 
+This repository includes basic tutorials/projects that I completed in past. I have tried to put a lot of comments to explain what is what. Hope that would be useful for you. 
 
 What you will find is,
 - Introduction to OpenCV Courses
@@ -32,8 +32,8 @@ $ cd [where you want to create your environment]
 $ python3 -m venv opencv_tutorials
 $ . opencv_tutorials/bin/activate
 $ cd [where you want to clonne the repository]
-$ git clone https://github.com/CoskunGorkem/open_cv.git
-$ cd open_cv
+$ git clone https://github.com/CoskunGorkem/OpenCV.git
+$ cd OpenCV
 $ pip install -r requirements.txt
 ```
 
