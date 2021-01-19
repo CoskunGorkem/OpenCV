@@ -1,17 +1,20 @@
+# OpenCV
+
 This repository includes basic tutorials/projects that I completed in past. I have tried to put a lot of comments to explain what is what. Hope that would be useful for you. 
 
 What you will find is,
 - Introduction to OpenCV Courses
 - Mid-level tutorials
-- High-level intermediate tutorials
+- Intermediate tutorials
 - Real-world applications of OpenCV
 - Image dataset manipulations
 - Introduction to Image processing methods with AI
 - How to train classification networks
 - How to train object detection networks
 - Combination of OpenCV and AI
-- Official papers for all the models and datasets that are used in all projects
+- Official paper links for all the models and datasets that are used in all projects
 
+Starting from the 1st of January, 2021, I will try to update the repository every day. 
 
 ## Contents:
 1. [Step-by-step Installation Instructions](#step-by-step-installation-instructions)
@@ -24,7 +27,7 @@ What you will find is,
 
 Virtual Environment should be used whenever you work on any Python-based project. It is generally good to have one new virtual environment for every Python-based project you work on. So the dependencies of every project are isolated from the system and each other.
 
-After clonning the repository, please follow the below commands.
+Please follow the below commands.
 ```bash
 $ pip install virtualenv
 $ virtualenv --version
@@ -36,6 +39,8 @@ $ git clone https://github.com/CoskunGorkem/OpenCV.git
 $ cd OpenCV
 $ pip install -r requirements.txt
 ```
+<img src="readmefiles/example.gif" width = "800" >
+
 
 
 ### Tutorials
@@ -51,24 +56,43 @@ $ pip install -r requirements.txt
 - 06- Camera_Input
 - 07- Live Sketch
 - 08- Contours-Intro
+<img src="readmefiles/contours_intro.png" width = "200" >
 - 09- Contours_Sorting
+<img src="readmefiles/contours2.png" width = "200" >
 - 10- Contours_Shape_Detection
+<img src="readmefiles/contours3.png" width = "200" >
 - 11- HoughLines
 - 12- Image_blending
+<img src="readmefiles/image_blending.png" width = "200" >
 - 13- Image_blending_2
+<img src="readmefiles/image_blending2.png" width = "200" >
 - 14- Mouse_Input
 - 15- Mouse_Input_2
 - 16- Color_Palette
 - 17- Smoothing_images
 
-Starting from the first day of 2021, I will try to update the repository every day. 
+
 ##### Mid-level tutorials will include:
 
 
 - 01- Corner_detection_1
+<img src="readmefiles/corner_detection1.png" width = "200" >
 - 02- Corner_detection_2
+<img src="readmefiles/corner_detection2.png" width = "200" >
 - 03- Introduction to FAST Algorithm for Corner Detection
+<img src="readmefiles/fast.png" width = "200" >
 - 03- Introduction to SIFT (Scale-Invariant Feature Transform)
+<img src="readmefiles/sift.png" width = "200" >
 - 04- Feature Matching
+<img src="readmefiles/feature_matching.png" width = "200" >
 - 05- Feature Matching_2.ipynb
+<img src="readmefiles/feature_matching2.png" width = "200" >
+
+
+##### Intermediate tutorials will include:
+-01- Introduction-to-image-classification
+-02- Image-classification_2
+-03- Image_classifiation_3
+-04- Transfer_learning
+-05- Introduction-to-object-detection
 
