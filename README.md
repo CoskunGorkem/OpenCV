@@ -39,8 +39,6 @@ $ git clone https://github.com/CoskunGorkem/OpenCV.git
 $ cd OpenCV
 $ pip install -r requirements.txt
 ```
-<img src="readmefiles/example.gif" width = "800" >
-
 
 
 ### Tutorials
