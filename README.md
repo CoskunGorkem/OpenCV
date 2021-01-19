@@ -47,30 +47,46 @@ $ pip install -r requirements.txt
 
 ##### Contents of the basics tutorial:
 - [01-Introduction](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/basics/01-Introduction.ipynb)
+---
 - [02-Basics](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/basics/02-Basics.ipynb)
 - <img src="readmefiles/basic1.png" width = "200" >
+---
 - [03-Basics_2](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/basics/03-Basics_2.ipynb)
 - <img src="readmefiles/basic2.png" width = "200" >
+---
 - [04-Kernels](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/basics/04-Kernels.ipynb)
 - <img src="readmefiles/kernels.png" width = "200" >
+---
 - [05-Kernels_2](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/basics/05-Kernels_2.ipynb)
 - <img src="readmefiles/kernels2.png" width = "200" >
+---
 - [06-Camera_Input](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/basics/06-Camera_Input.ipynb)
+---
 - [07-Live Sketch](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/basics/07-Live_Sketch.ipynb)
+---
 - [08-Contours-Intro](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/basics/08-Contours_Intro.ipynb)
 - <img src="readmefiles/contours_intro.png" width = "200" >
+---
 - [09-Contours_Sorting](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/basics/09-Contours_Sorting.ipynb)
 - <img src="readmefiles/contours2.png" width = "200" >
+---
 - [10-Contours_Shape_Detection](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/basics/10-Contours_Shape_Detection.ipynb)
 - <img src="readmefiles/contours3.png" width = "200" >
+---
 - [11-HoughLines](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/basics/11-HoughLines.ipynb)
+---
 - [12-Image_blending](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/basics/12-Image_blending.ipynb)
 - <img src="readmefiles/image_blending.png" width = "200" >
+---
 - [13-Image_blending_2](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/basics/13-Image_blending_2.ipynb)
 - <img src="readmefiles/image_blending2.png" width = "200" >
+---
 - [14-Mouse_Input](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/basics/14-Mouse_Input.ipynb)
+---
 - [15-Mouse_Input_2](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/basics/15-Mouse_Input_2.ipynb)
+---
 - [16-Color_Palette](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/basics/16-Color_Palette.ipynb)
+---
 - [17-Smoothing_images](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/basics/17-Smoothing_images.ipynb)
 - <img src="readmefiles/smothing_images.png" width = "200" >
 
@@ -79,14 +95,19 @@ $ pip install -r requirements.txt
 
 - [01-Corner_detection_1](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/mid_level/01-Corner_detection_1.ipynb)
 - <img src="readmefiles/corner_detection1.png" width = "200" >
+---
 - [02-Corner_detection_2](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/mid_level/02-Corner_detection_2.ipynb)
 - <img src="readmefiles/corner_detection2.png" width = "200" >
+---
 - [03-Introduction to FAST Algorithm for Corner Detection](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/mid_level/03-Introduction_to_FAST_Algorithm_for_Corner_Detection.ipynb)
 - <img src="readmefiles/fast.png" width = "200" >
+---
 - [04-Introduction to SIFT (Scale-Invariant Feature Transform)](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/mid_level/04-Introduction_to_SIFT(Scale-Invariant_Feature_Transform).ipynb)
 - <img src="readmefiles/sift.png" width = "200" >
+---
 - [05-Feature Matching](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/mid_level/05-Feature-Matching.ipynb)
-<img src="readmefiles/feature_matching.png" width = "200" >
+- <img src="readmefiles/feature_matching.png" width = "200" >
+---
 - [06-Feature Matching_2.ipynb](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/mid_level/06-Feature-Matching_2.ipynb)
 - <img src="readmefiles/feature_matching2.png" width = "200" >
 
