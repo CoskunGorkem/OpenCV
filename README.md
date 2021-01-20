@@ -47,15 +47,16 @@ $ pip install -r requirements.txt
 
 ##### Contents of the basics tutorial:
 - [01-Introduction](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/basics/01-Introduction.ipynb)
+- <img src="readmefiles/basic0.png" width = "400" >
 ---
 - [02-Basics](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/basics/02-Basics.ipynb)
-- <img src="readmefiles/basic1.png" width = "200" >
+- <img src="readmefiles/basic1.png" width = "400" >
 ---
 - [03-Basics_2](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/basics/03-Basics_2.ipynb)
 - <img src="readmefiles/basic2.png" width = "200" >
 ---
 - [04-Kernels](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/basics/04-Kernels.ipynb)
-- <img src="readmefiles/kernels.png" width = "400" >
+- <img src="readmefiles/kernels.png" width = "600" >
 ---
 - [05-Kernels_2](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/basics/05-Kernels_2.ipynb)
 - <img src="readmefiles/kernels2.png" width = "400" >
@@ -65,7 +66,7 @@ $ pip install -r requirements.txt
 - [07-Live Sketch](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/basics/07-Live_Sketch.ipynb)
 ---
 - [08-Contours-Intro](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/basics/08-Contours_Intro.ipynb)
-- <img src="readmefiles/contours_intro.png" width = "500" >
+- <img src="readmefiles/contours_intro.png" width = "800" >
 ---
 - [09-Contours_Sorting](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/basics/09-Contours_Sorting.ipynb)
 - <img src="readmefiles/contours2.png" width = "500" >
@@ -100,13 +101,13 @@ $ pip install -r requirements.txt
 - <img src="readmefiles/corner_detection2.png" width = "400" >
 ---
 - [03-Introduction to FAST Algorithm for Corner Detection](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/mid_level/03-Introduction_to_FAST_Algorithm_for_Corner_Detection.ipynb)
-- <img src="readmefiles/fast.png" width = "500" >
+- <img src="readmefiles/fast.png" width = "700" >
 ---
 - [04-Introduction to SIFT (Scale-Invariant Feature Transform)](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/mid_level/04-Introduction_to_SIFT(Scale-Invariant_Feature_Transform).ipynb)
-- <img src="readmefiles/sift.png" width = "500" >
+- <img src="readmefiles/sift.png" width = "700" >
 ---
 - [05-Feature Matching](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/mid_level/05-Feature-Matching.ipynb)
-- <img src="readmefiles/feature_matching.png" width = "500" >
+- <img src="readmefiles/feature_matching.png" width = "700" >
 ---
 - [06-Feature Matching_2.ipynb](https://github.com/CoskunGorkem/OpenCV/blob/main/tutorials/mid_level/06-Feature-Matching_2.ipynb)
 - <img src="readmefiles/feature_matching2.png" width = "700" >
@@ -121,7 +122,7 @@ $ pip install -r requirements.txt
 
 ##### Projects will include daily life usage of AI and Computer vision
 
-- <img src="readmefiles/example.gif" width = "200" >
+- <img src="readmefiles/example.gif" width = "800" >
 
 
 
